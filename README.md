@@ -30,7 +30,9 @@
 
 ### 8단계: 최종 점검
 - [ ] 테스트 통과 확인 (`./gradlew clean test`)
-- [ ] 실행 결과 검증 및 문서 업데이트
+- ![img.png](img.png)
+- [ ] 실행결과 확인
+- ![img_1.png](img_1.png)
 
 ## 사용 라이브러리
 - `camp.nextstep.edu.missionutils.Randoms`: 무작위 값 생성용
